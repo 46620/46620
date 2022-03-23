@@ -1,4 +1,4 @@
-### Hi there 👋
+### i write shit code and scream in my commits
 
 <!--
 **46620/46620** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
